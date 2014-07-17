@@ -1,5 +1,27 @@
 !https://s3.amazonaws.com/ohmyzsh/oh-my-zsh-logo.png!
 
+
+h1. 我的oh-my-zsh
+
+1. 抓代码
+
+@git clone https://github.com/duoduo369/oh-my-zsh.git ~/.oh-my-zsh@
+
+
+2. 配置文件.zshrc
+
+@cp ~/.oh-my-zsh/.zshrc ~/.zshrc@
+
+3. 改变默认sh
+
+@chsh -s /bin/zsh@
+
+4. 打开一个新的zsh看下
+
+5. Done
+
+h1. oh-my-zsh原README
+
 oh-my-zsh is an open source, community-driven framework for managing your ZSH configuration. It comes bundled with a ton of helpful functions, helpers, plugins, themes, and few things that make you shout...
 
 bq. "OH MY ZSHELL!"
