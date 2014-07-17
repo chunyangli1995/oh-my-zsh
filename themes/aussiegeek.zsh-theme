@@ -4,5 +4,5 @@ PROMPT='$fg_bold[blue][ $fg[red]%t $fg_bold[blue]] $fg_bold[blue] [ $fg[red]%n@%
 # git theming
 ZSH_THEME_GIT_PROMPT_PREFIX="$fg_bold[green]("
 ZSH_THEME_GIT_PROMPT_SUFFIX=")"
-ZSH_THEME_GIT_PROMPT_CLEAN="✔"
-ZSH_THEME_GIT_PROMPT_DIRTY="✗"
+ZSH_THEME_GIT_PROMPT_CLEAN=" O"
+ZSH_THEME_GIT_PROMPT_DIRTY=" $fg_bold[red]X$fg_bold[green]"
