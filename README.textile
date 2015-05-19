@@ -14,6 +14,7 @@ h1. 我的oh-my-zsh
 
 3. 改变默认sh
 
+@apt-get install zsh@
 @chsh -s /bin/zsh@
 
 4. 打开一个新的zsh看下
